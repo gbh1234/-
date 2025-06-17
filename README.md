@@ -308,7 +308,7 @@ MLLM-Jailbreak-Defense/
 ```bibtex
 @article{zhang2024mllm_defense,
   title={基于意图分析的多模态大模型越狱攻击防御技术研究},
-  author={张一 and 李松泽},
+  author={张一 and 郭炳良},
   journal={东南大学大学生创新训练项目},
   year={2024},
   institution={东南大学网络空间安全学院}
